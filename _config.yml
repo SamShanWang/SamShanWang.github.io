@@ -2,12 +2,18 @@ title: Samuel's homepage
 description: Bookmark this to keep an eye on my project updates!
 theme: just-the-docs
 
+#baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://samshanwang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#repository: just-the-docs/just-the-docs # for github-metadata
+
+
 #url: https://SamShanWang.github.io
 
 #aux_links: # remove if you don't want this link to appear on your pages
 #  Template Repository: https://github.com/SamShanWang/SamShanWang.github.io/
 
-url: https://just-the-docs.github.io
+#url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
