@@ -7,4 +7,4 @@ has_children: true
 permalink: /docs/products/wsmel
 ---
 
-初级会计考试记忆助手.
+# 初级会计考试记忆助手

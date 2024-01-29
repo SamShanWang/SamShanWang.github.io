@@ -6,4 +6,6 @@ nav_order: 2
 permalink: /docs/support
 ---
 
+# 获得支持
+
 请通过 [samuelwang@outlook.com](mailto:samuelwang@outlook.com) 与我取得联系,以获得支持。
