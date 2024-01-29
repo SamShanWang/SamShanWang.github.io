@@ -1,7 +1,7 @@
 ---
 layout: default
 title: “初级会计考试记忆助手”隐私政策
-parent: 初级会计考试记忆助手
+parent: wsmel1
 nav_order: 1
 ---
 
