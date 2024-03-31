@@ -2,6 +2,7 @@
 layout: default
 title: 主页
 nav_order: 2
+has_children: true
 description: "Samuel Wang 的主页."
 permalink: /zh
 ---
