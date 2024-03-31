@@ -1,3 +1,4 @@
+<!--- 
 ---
 layout: default
 title: “初级会计考试记忆助手”隐私政策
@@ -5,6 +6,7 @@ parent: 初级会计考试记忆助手
 grand_parent: Products
 nav_order: 1
 ---
+--->
 
 # “初级会计考试记忆助手”隐私政策
 {: style="text-align: center"}

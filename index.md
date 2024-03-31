@@ -6,4 +6,8 @@ description: "Samuel Wang's homepage."
 permalink: /
 ---
 
-Hi, I'm Samuel Wang.
+# Home
+
+This is my personal website.
+
+### [中文版](/zh).
