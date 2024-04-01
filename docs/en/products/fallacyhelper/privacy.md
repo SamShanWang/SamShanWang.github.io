@@ -3,8 +3,8 @@ layout: default
 title: Privacy Policy
 nav_order: 1
 parent: FallacyHelper
-grand_parent: Products
-permalink: /en/products/fallacyhelper/privacy
+grand_parent: Home
+permalink: /en/fallacyhelper/privacy
 ---
 
 # FallacyHelper Privacy Policy

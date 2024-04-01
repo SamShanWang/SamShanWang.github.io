@@ -1,10 +1,10 @@
 ---
 layout: default
 title: FallacyHelper
-nav_order: 1
-parent: Products
+nav_order: 2
+parent: Home
 has_children: true
-permalink: /en/products/fallacyhelper
+permalink: /en/fallacyhelper
 ---
 
 # FallacyHelper - Mastering Logical Fallacies
