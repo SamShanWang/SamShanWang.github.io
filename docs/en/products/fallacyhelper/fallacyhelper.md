@@ -1,8 +1,8 @@
 ---
 layout: default
 title: FallacyHelper
-parent: Products
 nav_order: 1
+parent: Products
 has_children: true
 permalink: /en/products/fallacyhelper
 ---
