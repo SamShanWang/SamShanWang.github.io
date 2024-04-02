@@ -11,6 +11,7 @@ permalink: /en/fallacyhelper/privacy
 {: style="text-align: center"}
 
 Last updated：1th January 2024
+{: style="text-align: center"}
 
 This app does not collect any personally identifiable information. 
 
