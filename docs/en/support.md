@@ -9,5 +9,5 @@ permalink: /en/getsupport
 
 # Get Support
 
-## Contact me:
+## Contact me
 Email: [samuelwang@outlook.com](mailto:samuelwang@outlook.com) 

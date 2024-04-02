@@ -12,7 +12,7 @@ permalink: /en/fallacyhelper/privacy
 
 Last updated：1th January 2024
 
-I take privacy very seriously. I have not programmed this app to collect any personally identifiable information. 
+This app does not collect any personally identifiable information. 
 
 All data about the app (preferences, progress, etc.) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it. 
 
