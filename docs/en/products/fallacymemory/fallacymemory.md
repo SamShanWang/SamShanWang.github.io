@@ -1,14 +1,14 @@
 ---
 layout: default
-title: FallacyHelper
+title: Fallacy Memory
 nav_order: 2
 parent: Home
 has_children: true
-permalink: /en/fallacyhelper
+permalink: /en/fallacymemory
 ---
 
-# FallacyHelper - Mastering Logical Fallacies
+# Logical Fallacy Memory - Learn to identify bad arguments
 
-FallacyHelper helps you to learn and master common logical fallacies. 
+Logical Fallacy Memory app helps you to learn and master common logical fallacies. 
 
 By mastering logical fallacies, it make you recognize bad arguments more easily, and significantly improve the way you reason and make decisions.

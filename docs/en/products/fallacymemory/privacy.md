@@ -2,12 +2,12 @@
 layout: default
 title: Privacy Policy
 nav_order: 1
-parent: FallacyHelper
+parent: Fallacy Memory
 grand_parent: Home
-permalink: /en/fallacyhelper/privacy
+permalink: /en/fallacymemory/privacy
 ---
 
-# FallacyHelper Privacy Policy
+# 'Logical Fallacy Memory' Privacy Policy
 {: style="text-align: center"}
 
 Last updated：1th January 2024

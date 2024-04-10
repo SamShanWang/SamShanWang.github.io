@@ -9,4 +9,4 @@ permalink: /en/products
 
 # Products
 
-1. [FallacyHelper](/en/fallacyhelper)
+1. [Fallacy Memory](/en/fallacymemory)
