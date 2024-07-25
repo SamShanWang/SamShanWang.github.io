@@ -10,3 +10,4 @@ permalink: /en/products
 # Products
 
 1. [Fallacy Memory](/en/fallacymemory)
+2. [Psychology Facts](/en/psychologyfact)
