@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Psychology Facts
+title: Psychology Facts Memory
 nav_order: 3
 parent: Home
 has_children: true
 permalink: /en/psychologyfact
 ---
 
-# Psychology Facts - Master common psychology facts
+# Psychology Facts Memory - Master common psychology facts
 
-Psychology Facts app helps you to learn and master common psychology facts. 
+Psychology Facts Memory app helps you to learn and master common psychology facts. 
 
 Psychology facts reveal facts about the human mind, thoughts, and behavior that are pretty mind-blowing.
 By learning psychology facts, you can gain a greater understanding of yourself and others and use them as life tips.

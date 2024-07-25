@@ -2,12 +2,12 @@
 layout: default
 title: Privacy Policy
 nav_order: 1
-parent: Psychology Facts
+parent: Psychology Facts Memory
 grand_parent: Home
 permalink: /en/psychologyfact/privacy
 ---
 
-# 'Psychology Facts' Privacy Policy
+# 'Psychology Facts Memory' Privacy Policy
 {: style="text-align: center"}
 
 Last updated：1th January 2024
