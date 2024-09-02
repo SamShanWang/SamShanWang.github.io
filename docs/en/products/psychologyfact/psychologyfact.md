@@ -2,11 +2,11 @@
 layout: default
 title: Psychology Facts Memory
 nav_order: 3
-parent: Home
+
 has_children: true
 permalink: /en/psychologyfact
 ---
-
+<!-- parent: Home -->
 # Psychology Facts Memory - Master common psychology facts
 
 Psychology Facts Memory app helps you to learn and master common psychology facts. 

@@ -9,5 +9,6 @@ permalink: /en/products
 
 # Products
 
+1. [Bible Memory Helper](/en/biblememory)
 1. [Logical Fallacy Memory](/en/fallacymemory)
-2. [Psychology Facts Memory](/en/psychologyfact)
+<!-- 2. [Psychology Facts Memory](/en/psychologyfact) -->

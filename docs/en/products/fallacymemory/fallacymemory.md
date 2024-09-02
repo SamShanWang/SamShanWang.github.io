@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fallacy Memory
-nav_order: 2
+nav_order: 3
 parent: Home
 has_children: true
 permalink: /en/fallacymemory
