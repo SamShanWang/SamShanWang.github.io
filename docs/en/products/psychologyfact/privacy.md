@@ -1,3 +1,4 @@
+<!-- 
 ---
 layout: default
 title: Privacy Policy
@@ -6,7 +7,7 @@ parent: Psychology Facts Memory
 grand_parent: Home
 permalink: /en/psychologyfact/privacy
 ---
-
+-->
 # 'Psychology Facts Memory' Privacy Policy
 {: style="text-align: center"}
 
