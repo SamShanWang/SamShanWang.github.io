@@ -21,4 +21,4 @@ As shown in the figure below,
 3. 'File-A.gnucash' file and 'File-B.gnucash' file can exchange data using the import and export features of 'GnuCash Desktop Software'.See also: 6.16. Importing Transactions from Files / 6.17. Exporting Transactions
 4. Please be careful to back up your important files frequently.
 
-![](AppConjunctionGc.png)
+![](./AppConjunctionGc.png)
