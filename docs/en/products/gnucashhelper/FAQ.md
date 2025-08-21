@@ -22,3 +22,4 @@ As shown in the figure below,
 4. Please be careful to back up your important files frequently.
 
 ![](./AppConjunctionGc.png)
+![](../../../assets/images/AppConjunctionGc.png)
