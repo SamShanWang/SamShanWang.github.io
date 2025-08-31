@@ -9,6 +9,8 @@ permalink: /en/biblememory
 
 # Bible Memory Helper
 
+[![Download on the App Store](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1725840000 "Download on the App Store")](https://apps.apple.com/us/app/bible-memory-helper/id6669815121?itscg=30200&itsct=apps_box_badge&mttnsubad=6669815121)
+
 Bible Memory Helper helps you memorize bible verses efficiently and firmly.
 
 Features:

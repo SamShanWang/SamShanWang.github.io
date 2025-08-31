@@ -10,6 +10,9 @@ permalink: /en/gnucashhelper/faq
 
 # 'GnuCash Helper' FAQ
 
+## Contents
+1. [How does 'GnuCash Helper App' work in conjunction with 'GnuCash Desktop Software'?](#How does 'GnuCash Helper App' work in conjunction with 'GnuCash Desktop Software'?)
+
 ## How does 'GnuCash Helper App' work in conjunction with 'GnuCash Desktop Software'?
 As shown in the figure below, 
 1. The 'File-B.gnucash' file can serve as an exchange file between 'GnuCash Helper App' and 'GnuCash Desktop Software'.
