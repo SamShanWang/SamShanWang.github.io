@@ -8,12 +8,8 @@ permalink: /en/gnucashhelper
 ---
 
 # GnuCash Helper
-
-
-    <a href="https://apps.apple.com/us/app/gnucash-helper-manage-money/id6738621485?itscg=30200&itsct=apps_box_badge&mttnsubad=6738621485" style="display: inline-block;">
-    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1754870400" alt="Download on the App Store" style="width: 246px; height: 82px; vertical-align: middle; object-fit: contain;" />
-    </a>
     
+[![Download on the App Store](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1754870400 "Download on the App Store")](https://apps.apple.com/us/app/gnucash-helper-manage-money/id6738621485?itscg=30200&itsct=apps_box_badge&mttnsubad=6738621485)
 
 GnuCash Helper is a companion app for GnuCash (desktop software) . It allows you to import the data from GnuCash, and record transactions on-the-go and later export the data into GnuCash.
 

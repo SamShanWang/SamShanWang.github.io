@@ -4,6 +4,7 @@ title: FAQ
 nav_order: 1
 parent: GnuCash Helper
 grand_parent: Home
+description: "GnuCash Helper - Help - FAQ"
 permalink: /en/gnucashhelper/faq
 ---
 
