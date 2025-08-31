@@ -11,7 +11,7 @@ permalink: /en/gnucashhelper/faq
 # 'GnuCash Helper' FAQ
 
 ## Contents
-1. [How does 'GnuCash Helper App' work in conjunction with 'GnuCash Desktop Software'?](#How does 'GnuCash Helper App' work in conjunction with 'GnuCash Desktop Software'?)
+* [How does 'GnuCash Helper App' work in conjunction with 'GnuCash Desktop Software'?](#how-does-gnucash-helper-app-work-in-conjunction-with-gnucash-desktop-software)
 
 ## How does 'GnuCash Helper App' work in conjunction with 'GnuCash Desktop Software'?
 As shown in the figure below, 
