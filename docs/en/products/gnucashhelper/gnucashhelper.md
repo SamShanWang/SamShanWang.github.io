@@ -12,9 +12,11 @@ permalink: /en/gnucashhelper
     
 [![Download on the App Store](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1754870400 "Download on the App Store")](https://apps.apple.com/us/app/gnucash-helper-manage-money/id6738621485?itscg=30200&itsct=apps_box_badge&mttnsubad=6738621485)
 
-GnuCash Helper is a companion mobile app for GnuCash (desktop software) . It allows you to import the data from GnuCash, and record transactions on-the-go and later export the data into GnuCash.
-
-GnuCash Helper is a personal financial-accounting app. It allows you to track bank accounts, stocks, income and expenses. It is based on formal double-entry accounting principles.
+GnuCash Helper is a GnuCash mobile app, which is a personal financial-accounting app.
+			
+GnuCash Helper is a companion mobile app for GnuCash (desktop software) . You can import the data from GnuCash, and record transactions on-the-go in the app, and later export the data into GnuCash.
+			
+GnuCash Helper can also serve as a standalone personal finance app without using the GnuCash software. It tracks bank accounts, stocks, income and expenses etc. It is based on formal double-entry accounting principles. When you need the powerful features of GnuCash (like the reporting feature), you can export data as a GnuCash file and open it with GnuCash.
 
 Features:
 1. Record transactions in GnuCash-compatible, double-bookkeeping fashion.
