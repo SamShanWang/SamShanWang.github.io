@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MyLedger: GnuCash Companion
+title: MyLedger GnuCash Companion
 nav_order: 2
 parent: Home
 has_children: true

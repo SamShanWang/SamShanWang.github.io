@@ -2,7 +2,7 @@
 layout: default
 title: FAQ
 nav_order: 1
-parent: MyLedger: GnuCash Companion
+parent: MyLedger GnuCash Companion
 grand_parent: Home
 description: "MyLedger: GnuCash Companion - Help - FAQ"
 permalink: /en/myledger/faq
