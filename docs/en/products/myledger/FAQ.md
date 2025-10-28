@@ -2,7 +2,7 @@
 layout: default
 title: FAQ
 nav_order: 1
-parent: MyLedger GnuCash Companion
+parent: "MyLedger: GnuCash Companion"
 grand_parent: Home
 description: "MyLedger: GnuCash Companion - Help - FAQ"
 permalink: /en/myledger/faq
@@ -31,5 +31,5 @@ As shown in the figure below,
 3. 'File-A.gnucash' file and 'File-B.gnucash' file can exchange data using the import and export features of 'GnuCash Desktop Software'. See also: [6.16. Importing Transactions from Files](https://gnucash.org/docs/v5/C/gnucash-manual/trans-import.html) / [6.17. Exporting Transactions](https://lists.gnucash.org/docs/C/gnucash-manual/trans-export.html)
 4. Please be careful to back up your important files frequently.
 
-![](../../../assets/images/MyLedgerConjunctionGc.png)
-![](./assets/images/AppConjunctionGc1.png)
+<!-- ![](../../../assets/images/MyLedgerConjunctionGc.png) -->
+![](./assets/images/MyLedgerConjunctionGc1.png)
