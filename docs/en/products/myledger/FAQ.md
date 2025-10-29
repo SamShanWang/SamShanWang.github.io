@@ -33,14 +33,16 @@ As shown in the figure below,
 
 ![](../../../assets/images/MyLedgerConjunctionGc.png)
 
-# aaaaaaaa
-![](./assets/images/MyLedgerConjunctionGc.png)
-
-# bbbbbbbb
-![](assets/images/MyLedgerConjunctionGc.png)
-
 # cccccccc
 ![](/assets/images/MyLedgerConjunctionGc.png)
 
 # dddddddd
 ![](../../../../assets/images/MyLedgerConjunctionGc.png)
+
+<!--
+# aaaaaaaa
+![](./assets/images/MyLedgerConjunctionGc.png)
+
+# bbbbbbbb
+![](assets/images/MyLedgerConjunctionGc.png)
+-->
