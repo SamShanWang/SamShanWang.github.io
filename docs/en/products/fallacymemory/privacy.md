@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-nav_order: 1
+nav_order: 2
 parent: Fallacy Memory
 grand_parent: Home
 permalink: /en/fallacymemory/privacy
