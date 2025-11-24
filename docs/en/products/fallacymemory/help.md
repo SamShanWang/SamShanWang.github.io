@@ -33,9 +33,7 @@ After the answer is shown, compare the answer you thought of with the answer tha
 If you find it hard to use four answer buttons, you can also use only Again and Good buttons. Use Again for incorrect answers and use Good for correct answers.
 
 Figure 2:
-
 ![](/assets/images/lfm/StudyAnswer.png)
 
 Figure 3:
-
 ![](/assets/images/lfm/FallacyDetail.png)
