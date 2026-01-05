@@ -11,8 +11,8 @@ permalink: /en/myledger/transaction
 # MyLedger - Help - Transaction
 
 ## Contents
-* [How to delete, and duplicate a transaction?](#how-to-delete-and-duplicate-an-transaction)
-* [How to jump to an account?](#how-to-jump-to-a-account)
+* [How to delete, and duplicate a transaction?](#how-to-delete-and-duplicate-a-transaction)
+* [How to jump to an account?](#how-to-jump-to-an-account)
 
 ## How to delete, and duplicate a transaction?
 Slide your finger left on a transaction, which reveals the actions you can do on that transaction. See the figure below.
