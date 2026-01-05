@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-nav_order: 2
+nav_order: 9
 parent: "MyLedger: GnuCash Companion"
 grand_parent: Home
 permalink: /en/myledger/privacy

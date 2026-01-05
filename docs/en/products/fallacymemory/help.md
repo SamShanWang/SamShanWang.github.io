@@ -30,7 +30,7 @@ After the answer is shown, compare the answer you thought of with the answer tha
 3. Good: Select this when your answer is correct, but it took some mental effort to recall it. When this app is used properly, this should be the most commonly used button. You’ll typically use this button about 80-95% of the time.
 4. Easy: Select this if your answer is correct and it took no mental effort to recall it.
 
-If you find it hard to use four answer buttons, you can also use only Again and Good buttons. Use Again for incorrect answers and use Good for correct answers.
+If you find it hard to use four answer buttons, you can also **use only Again and Good buttons**. Use Again for incorrect answers and use Good for correct answers.
 
 Figure 2:
 ![](/assets/images/lfm/StudyAnswer.png)

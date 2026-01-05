@@ -8,7 +8,7 @@ description: "MyLedger: GnuCash Companion - Help - FAQ"
 permalink: /en/myledger/faq
 ---
 
-# 'MyLedger: GnuCash Companion' FAQ
+# MyLedger: GnuCash Companion - FAQ
 
 ## Contents
 * [What is the relationship between 'MyLedger App' and 'GnuCash Desktop Software'?](#what-is-the-relationship-between-myledger-app-and-gnucash-desktop-software)
@@ -17,7 +17,7 @@ permalink: /en/myledger/faq
 ## What is the relationship between 'MyLedger App' and 'GnuCash Desktop Software'?
 1. MyLedger is a companion mobile app for GnuCash (desktop software) . You can import the data from GnuCash, and record transactions on-the-go in the app, and later export the data into GnuCash.
 2. MyLedger can also serve as a standalone personal finance app without using the GnuCash software. It tracks bank accounts, stocks, income and expenses etc. It is based on formal double-entry accounting principles. When you need the powerful features of GnuCash (like the reporting feature), you can export data as a GnuCash file and open it with GnuCash.
-3. MyLedger and GnuCash use the same concept. If you are familiar with using GnuCash, you will also be familiar with using MyLedger. Please refer to: [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=guide)
+3. MyLedger and GnuCash use the same concept. If you are familiar with using GnuCash, you will also be familiar with using MyLedger. Please refer to: [GnuCash Manual](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=help) and [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/viewdoc.phtml?rev=5&lang=C&doc=guide)
 
 ## How does 'MyLedger App' work in conjunction with 'GnuCash Desktop Software'?
 As shown in the figure below, 
@@ -31,7 +31,7 @@ As shown in the figure below,
 3. 'File-A.gnucash' file and 'File-B.gnucash' file can exchange data using the import and export features of 'GnuCash Desktop Software'. See also: [6.16. Importing Transactions from Files](https://gnucash.org/docs/v5/C/gnucash-manual/trans-import.html) / [6.17. Exporting Transactions](https://lists.gnucash.org/docs/C/gnucash-manual/trans-export.html)
 4. Please be careful to back up your important files frequently.
 
-![](/assets/images/MyLedgerConjunctionGc.png)
+![](/assets/images/MyLedger/ConjunctionGc.png)
 
 <!-- 以下代码有效
 # cccccccc
