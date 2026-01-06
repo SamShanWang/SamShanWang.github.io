@@ -1,6 +1,6 @@
 ---
 layout: default
-title: import-export
+title: Help - Import & Export
 nav_order: 4
 parent: "MyLedger: GnuCash Companion"
 grand_parent: Home
@@ -16,7 +16,7 @@ how-to-import-data-from-gnucash-files-stored-on-cloud-storage-services-like-oned
 * [How to import data from .gnucash files attached to an email?](#how-to-import-data-from-gnucash-files-attached-to-an-email)
 
 ## How to import data from .gnucash files stored on cloud storage services like OneDrive?
-1. Tap the '...' on the right side of the .gnucash file.
+1. Tap the '...' on the right side of a .gnucash file.
 ![](/assets/images/MyLedger/import-export/onedrive1.PNG)
 2. Tap 'Open in Another App'.
 ![](/assets/images/MyLedger/import-export/onedrive2.PNG)
@@ -28,3 +28,11 @@ how-to-import-data-from-gnucash-files-stored-on-cloud-storage-services-like-oned
 ![](/assets/images/MyLedger/import-export/mail1.PNG)
 2. Tap 'MyLedger' icon. Now you can import the data from this .gnucash file.
 ![](/assets/images/MyLedger/import-export/mail2.PNG)
+
+## How to export data to .gnucash files stored on cloud storage services like OneDrive?
+1. Tap the 'Export & Share'.
+![](/assets/images/MyLedger/import-export/export-to-onedrive1.PNG)
+2. Tap 'OneDrive' icon.
+![](/assets/images/MyLedger/import-export/export-to-onedrive2.PNG)
+3. Tap 'Upload to OneDrive'.
+![](/assets/images/MyLedger/import-export/export-to-onedrive3.PNG)

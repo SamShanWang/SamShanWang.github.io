@@ -13,6 +13,9 @@ permalink: /en/myledger/faq
 ## Contents
 * [What is the relationship between 'MyLedger App' and 'GnuCash Desktop Software'?](#what-is-the-relationship-between-myledger-app-and-gnucash-desktop-software)
 * [How does 'MyLedger App' work in conjunction with 'GnuCash Desktop Software'?](#how-does-myledger-app-work-in-conjunction-with-gnucash-desktop-software)
+* [Help - Account](/en/myledger/account)
+* [Help - Transaction](/en/myledger/transaction)
+* [Help - Import & Export](/en/myledger/import-export)
 
 ## What is the relationship between 'MyLedger App' and 'GnuCash Desktop Software'?
 1. MyLedger is a companion mobile app for GnuCash (desktop software) . You can import the data from GnuCash, and record transactions on-the-go in the app, and later export the data into GnuCash.
