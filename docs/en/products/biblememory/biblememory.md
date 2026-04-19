@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bible Memory Helper
-nav_order: 4
+nav_order: 9
 parent: Home
 has_children: true
 permalink: /en/biblememory

@@ -11,5 +11,6 @@ permalink: /en/products
 
 1. [MyLedger: GnuCash Companion](/en/myledger)
 1. [Logical Fallacy Memory](/en/fallacymemory)
+1. [iCategory: Home Inventory List](/en/icategory)
 1. [Bible Memory Helper](/en/biblememory)
 <!-- 2. [Psychology Facts Memory](/en/psychologyfact) -->
