@@ -14,10 +14,9 @@ permalink: /en/fallacymemory
 
 Logical Fallacy Memory app helps you to learn and master common logical fallacies. 
 
-By mastering logical fallacies, it make you recognize bad arguments more easily, and significantly improve the way you reason and make decisions.
+Level up your critical thinking. Learn to identify common logical pitfalls and transform the way you make decisions, debate, and perceive the world.
 
-Features:
-1. Learn fallacies by testing, which provides valuable feedback to you on what you know and where you need to focus your efforts. 
-2. Learn fallacies by flashcard mode, which is convenient for you to self-detect and make your memory more efficient and solid. It's the same way you use the Anki software.  
-3. Beat the forgetting curve with spaced repetition. Use spaced repetition algorithm to schedule the fallacies you need to study or review each day automatically.
-4. Keep track of your mastery of each fallacy, so you can see at a glance what you are not familiar with or what you are familiar with.
+Key Features:
+1. Active Recall Testing: Learn faster by identifying fallacies in real-world scenarios. 
+2. Science-Based Learning: We use Spaced Repetition to hack your memory, ensuring you never forget the most common reasoning errors.  
+3. Personalized Mastery Map: A clear dashboard that shows exactly what you know and where you need more practice.
