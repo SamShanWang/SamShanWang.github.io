@@ -18,12 +18,12 @@ The Ultimate GnuCash Mobile Companion & Standalone Tracker
 
 Take complete control of your wealth with MyLedger, a professional personal financial accounting app built on formal double-entry accounting principles. Whether you need a powerful mobile extension for GnuCash desktop software or a robust standalone money manager, MyLedger delivers precision, clarity, and control right to your pocket.
 			
-💡 Why Choose MyLedger?
-    1. No Data Lock-In: Your financial records belong entirely to you, fully compatible with GnuCash standards.
-    2. On-The-Go Efficiency: Fast, streamlined transaction entry interface optimized for mobile workflows.
-    3. Privacy-Focused: Your financial data stays local and secure—no unnecessary cloud syncing or tracking.
+**💡 Why Choose MyLedger?**
+1. No Data Lock-In: Your financial records belong entirely to you, fully compatible with GnuCash standards.
+2. On-The-Go Efficiency: Fast, streamlined transaction entry interface optimized for mobile workflows.
+3. Privacy-Focused: Your financial data stays local and secure—no unnecessary cloud syncing or tracking.
 
-🚀 Key Features
+**🚀 Key Features**
 1. Seamless GnuCash Integration
     1. Import your desktop .gnucash files directly into your mobile device.
     2. Record transactions on-the-go and export data back to desktop seamlessly.
@@ -37,7 +37,7 @@ Take complete control of your wealth with MyLedger, a professional personal fina
 4. Smart Budget Management
     1. Plan your financial goals for a given period.
     2. Compare actual spending against planned transactions in real-time.
-5. Visual Analytics & Insights  可视化分析与洞察
+5. Visual Analytics & Insights
     1. Gain instant clarity with beautiful, easy-to-understand charts and graphs.
     2. Track your biggest cash drains instantly with a dedicated Top Expenses visualization.
     3. Monitor your profitability over time by clearly viewing your net profit.
