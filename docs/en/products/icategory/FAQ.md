@@ -12,7 +12,6 @@ permalink: /en/icategory/faq
 
 ## Contents
 * [Typical workflow for using this app](#typical-workflow-for-using-this-app)
-* [How to backup and restore data?](#how-to-backup-and-restore-data)
 * [Help - Category](/en/icategory/category)
 * [Help - Item](/en/icategory/item)
 * [Help - Inventory List](/en/icategory/inventorylist)

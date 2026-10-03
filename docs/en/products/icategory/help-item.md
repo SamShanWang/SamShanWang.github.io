@@ -15,7 +15,7 @@ permalink: /en/icategory/item
 * [Remove and delete items](#remove-and-delete-items)
 
 ## Create new items and add existing items
-As shown in the figure, use the button inside the red rectangle to create a brand-new item to serve as the category of the current item; use the button inside the green circle to add an existing item to serve as the category of the current item.
+As shown in the figure, use the button inside the red rectangle to create a brand-new item to serve as the item of the current category; use the button inside the green circle to add an existing item to serve as the item of the current category.
 
 ![](/assets/images/iCategory/item/new-add-item.png)
 ![](/assets/images/iCategory/item/new-add-item2.png)
