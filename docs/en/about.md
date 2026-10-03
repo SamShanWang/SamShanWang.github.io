@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-nav_order: 5 
+nav_order: 7
 parent: Home
 permalink: /en/about
 ---
