@@ -12,7 +12,7 @@ permalink: /en/myledger
     
 [![Download on the App Store](https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1754870400 "Download on the App Store")](https://apps.apple.com/us/app/gnucash-helper-manage-money/id6738621485?itscg=30200&itsct=apps_box_badge&mttnsubad=6738621485)
 
-MyLedger – Double-Entry Finance
+MyLedger – Double-Entry Personal Finance
 
 The Ultimate GnuCash Mobile Companion & Standalone Tracker
 
@@ -29,11 +29,11 @@ Take complete control of your wealth with MyLedger, a professional personal fina
     2. Record transactions on-the-go and export data back to desktop seamlessly.
     3. Enjoy 100% data compatibility with standard GnuCash formats.
 2. Professional Double-Entry Bookkeeping
-    1. Track bank accounts, stocks, investments, income, and expenses with precision.
+    1. Track bank accounts, stocks, investments, liabilities, income, and expenses with precision.
     2. Maintain absolute accuracy with strict, formal double-entry accounting rules.
 3. Flexible Standalone Mode
-    1. Work fully independently without relying on any desktop software.
-    2. Export data smoothly to leverage advanced desktop GnuCash tools like detailed reporting.
+    1. Can work completely independently, without relying on the GnuCash desktop software.
+    2. Smoothly export data to open in desktop GnuCash whenever you need advanced features of GnuCash (like the reporting features).
 4. Smart Budget Management
     1. Plan your financial goals for a given period.
     2. Compare actual spending against planned transactions in real-time.
