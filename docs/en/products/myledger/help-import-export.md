@@ -11,8 +11,7 @@ permalink: /en/myledger/import-export
 # MyLedger - Help - Import & Export
 
 ## Contents
-* [How to import data from .gnucash files stored on cloud storage services like OneDrive?](#
-how-to-import-data-from-gnucash-files-stored-on-cloud-storage-services-like-onedrive)
+* [How to import data from .gnucash files stored on cloud storage services like OneDrive?](#how-to-import-data-from-gnucash-files-stored-on-cloud-storage-services-like-onedrive)
 * [How to import data from .gnucash files attached to an email?](#how-to-import-data-from-gnucash-files-attached-to-an-email)
 * [How to export data to .gnucash files stored on cloud storage services like OneDrive?](#how-to-export-data-to-gnucash-files-stored-on-cloud-storage-services-like-onedrive)
 

@@ -29,7 +29,7 @@ Take complete control of your wealth with MyLedger, a professional personal fina
     2. Record transactions on-the-go and export data back to desktop seamlessly.
     3. Enjoy 100% data compatibility with standard GnuCash formats.
 2. Professional Double-Entry Bookkeeping
-    1. Track bank accounts, stocks, investments, liabilities, income, and expenses with precision.
+    1. Track bank accounts, stocks, investments, liabilities, incomes, and expenses with precision.
     2. Maintain absolute accuracy with strict, formal double-entry accounting rules.
 3. Flexible Standalone Mode
     1. Can work completely independently, without relying on the GnuCash desktop software.

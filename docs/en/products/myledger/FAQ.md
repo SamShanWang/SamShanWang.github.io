@@ -13,7 +13,7 @@ permalink: /en/myledger/faq
 ## Contents
 * [What is the relationship between 'MyLedger App' and 'GnuCash Desktop Software'?](#what-is-the-relationship-between-myledger-app-and-gnucash-desktop-software)
 * [How does 'MyLedger App' work in conjunction with 'GnuCash Desktop Software'?](#how-does-myledger-app-work-in-conjunction-with-gnucash-desktop-software)
-* [Where can I learn about the basic concepts of double-entry accounting system?](#where-can-i-learn-about-the-basic-concepts-of-double-entry-accounting-system?)
+* [Where can I learn about the basic concepts of double-entry accounting system?](#where-can-i-learn-about-the-basic-concepts-of-double-entry-accounting-system)
 * [How to backup and restore data?](#how-to-backup-and-restore-data)
 * [Help - Account](/en/myledger/account)
 * [Help - Transaction](/en/myledger/transaction)
